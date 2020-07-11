@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5065db74-adb6-4563-b4e2-e9aec780fcda" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e5JQE9rfb0DjGPDlxVQMWCuczp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dani Todorova\PycharmProjects\Exercises\ classes_and_instances_excs\07_library\project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.photoalbum_mine">
+    <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/123.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="customer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/movie_world_2/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/movie_world_2/project/customer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="photoalbum_mine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/photoalbum_mine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="storage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/document_management_3/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/document_management_3/project/storage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wild_cat_zoo/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wild_cat_zoo/project/zoo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.photoalbum_mine" />
+        <item itemvalue="Python.123" />
+        <item itemvalue="Python.customer" />
+        <item itemvalue="Python.zoo" />
+        <item itemvalue="Python.storage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5065db74-adb6-4563-b4e2-e9aec780fcda" name="Default Changelist" comment="" />
+      <created>1593605501017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593605501017</updated>
+      <workItem from="1593605516833" duration="6137000" />
+      <workItem from="1593629570835" duration="545000" />
+      <workItem from="1593631500983" duration="5494000" />
+      <workItem from="1593685950025" duration="7148000" />
+      <workItem from="1593721462057" duration="2979000" />
+      <workItem from="1593765870777" duration="8116000" />
+      <workItem from="1593857548518" duration="10381000" />
+      <workItem from="1593881089009" duration="2408000" />
+      <workItem from="1593949211635" duration="5020000" />
+      <workItem from="1593966646642" duration="16438000" />
+      <workItem from="1594021608976" duration="17199000" />
+      <workItem from="1594154287509" duration="7774000" />
+      <workItem from="1594230305540" duration="12610000" />
+      <workItem from="1594282836851" duration="627000" />
+      <workItem from="1594285783372" duration="901000" />
+      <workItem from="1594286707231" duration="3061000" />
+      <workItem from="1594291427092" duration="3793000" />
+      <workItem from="1594317324441" duration="1440000" />
+      <workItem from="1594320876549" duration="4961000" />
+      <workItem from="1594327493481" duration="4109000" />
+      <workItem from="1594377010224" duration="5198000" />
+      <workItem from="1594388927942" duration="8011000" />
+      <workItem from="1594455910330" duration="5130000" />
+      <workItem from="1594461082214" duration="123000" />
+      <workItem from="1594461221641" duration="197000" />
+      <workItem from="1594461499535" duration="1011000" />
+      <workItem from="1594462528929" duration="4000" />
+      <workItem from="1594469866290" duration="10787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="99" y="100" width="520" height="475" maximized="true" key="DiffContextDialog" timestamp="1593804289447">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="99" y="100" width="520" height="475" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1593804289447" />
+    <state x="780" y="239" key="Github.CreateGistDialog" timestamp="1594497224384">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="780" y="239" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1594497224384" />
+    <state width="1237" height="227" key="GridCell.Tab.0.bottom" timestamp="1594500302525">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="227" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594500302525" />
+    <state width="1237" height="227" key="GridCell.Tab.0.center" timestamp="1594500302525">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="227" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1594500302525" />
+    <state width="1237" height="227" key="GridCell.Tab.0.left" timestamp="1594500302525">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="227" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1594500302525" />
+    <state width="1237" height="227" key="GridCell.Tab.0.right" timestamp="1594500302525">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="227" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1594500302525" />
+    <state width="572" height="179" key="GridCell.Tab.1.bottom" timestamp="1594417549250">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="572" height="179" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594417549250" />
+    <state width="572" height="179" key="GridCell.Tab.1.center" timestamp="1594417549250">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="572" height="179" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1594417549250" />
+    <state width="572" height="179" key="GridCell.Tab.1.left" timestamp="1594417549250">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="572" height="179" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1594417549250" />
+    <state width="572" height="179" key="GridCell.Tab.1.right" timestamp="1594417549250">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="572" height="179" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1594417549250" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1594500262964">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1594500262964" />
+    <state x="673" y="156" key="com.intellij.ide.util.TipDialog" timestamp="1594469865976">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="673" y="156" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1594469865976" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1594458353503">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1594458353503" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/todo_list_9/project/section.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Exercises$storage.coverage" NAME="storage Coverage Results" MODIFIED="1594414879204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/document_management_3/project" />
+    <SUITE FILE_PATH="coverage/Exercises$guild.coverage" NAME="guild Coverage Results" MODIFIED="1593984150216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/guild_system/project" />
+    <SUITE FILE_PATH="coverage/Exercises$photoalbum_mine.coverage" NAME="photoalbum_mine Coverage Results" MODIFIED="1594495528604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$movie_world.coverage" NAME="movie_world Coverage Results" MODIFIED="1594292035052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/movie_world/project" />
+    <SUITE FILE_PATH="coverage/Exercises$car.coverage" NAME="car Coverage Results" MODIFIED="1593957351677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$pizza_delivery.coverage" NAME="pizza_delivery Coverage Results" MODIFIED="1593884156259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise1/pizza_delivery" />
+    <SUITE FILE_PATH="coverage/Exercises$trainer.coverage" NAME="trainer Coverage Results" MODIFIED="1594389417465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pokemon_battle_mine/project" />
+    <SUITE FILE_PATH="coverage/Exercises$guild_1.coverage" NAME="guild_1 Coverage Results" MODIFIED="1594025318755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/guild_system_06_07/project" />
+    <SUITE FILE_PATH="coverage/Exercises$point.coverage" NAME="point Coverage Results" MODIFIED="1593802911141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$shop.coverage" NAME="shop Coverage Results" MODIFIED="1593957708135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$exercise_plan.coverage" NAME="exercise_plan Coverage Results" MODIFIED="1594290066968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gym_4/project" />
+    <SUITE FILE_PATH="coverage/Exercises$steam_user.coverage" NAME="steam_user Coverage Results" MODIFIED="1593967442843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$section.coverage" NAME="section Coverage Results" MODIFIED="1593690478383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/todo_list_9/project" />
+    <SUITE FILE_PATH="coverage/Exercises$band.coverage" NAME="band Coverage Results" MODIFIED="1594067228000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spoopify_8/project" />
+    <SUITE FILE_PATH="coverage/Exercises$zoo.coverage" NAME="zoo Coverage Results" MODIFIED="1594472200267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wild_cat_zoo/project" />
+    <SUITE FILE_PATH="coverage/Exercises$account.coverage" NAME="account Coverage Results" MODIFIED="1593956829024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$hero.coverage" NAME="hero Coverage Results" MODIFIED="1593958073996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$subscription.coverage" NAME="subscription Coverage Results" MODIFIED="1594290129499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gym_4/project" />
+    <SUITE FILE_PATH="coverage/Exercises$programmer.coverage" NAME="programmer Coverage Results" MODIFIED="1593969299773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$player.coverage" NAME="player Coverage Results" MODIFIED="1593984305933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/guild_system/project" />
+    <SUITE FILE_PATH="coverage/Exercises$circle.coverage" NAME="circle Coverage Results" MODIFIED="1593804279367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$player_1.coverage" NAME="player_1 Coverage Results" MODIFIED="1594025310315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/guild_system_06_07/project" />
+    <SUITE FILE_PATH="coverage/Exercises$gym.coverage" NAME="gym Coverage Results" MODIFIED="1594289864886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gym/project" />
+    <SUITE FILE_PATH="coverage/Exercises$gym__1_.coverage" NAME="gym (1) Coverage Results" MODIFIED="1594290326600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gym_4/project" />
+    <SUITE FILE_PATH="coverage/Exercises$123.coverage" NAME="123 Coverage Results" MODIFIED="1594494944544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$song.coverage" NAME="song Coverage Results" MODIFIED="1593700470237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spoopify_8/project" />
+    <SUITE FILE_PATH="coverage/Exercises$vet.coverage" NAME="vet Coverage Results" MODIFIED="1593766936591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$vet_mine.coverage" NAME="vet_mine Coverage Results" MODIFIED="1593770353034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$glass_mine.coverage" NAME="glass_mine Coverage Results" MODIFIED="1593773845913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$smartphone.coverage" NAME="smartphone Coverage Results" MODIFIED="1593725915242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/third_of_july/smartphone" />
+    <SUITE FILE_PATH="coverage/Exercises$glass.coverage" NAME="glass Coverage Results" MODIFIED="1593773169098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$album.coverage" NAME="album Coverage Results" MODIFIED="1593700846514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spoopify_8/project" />
+    <SUITE FILE_PATH="coverage/Exercises$user.coverage" NAME="user Coverage Results" MODIFIED="1593869632686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/library_7/project" />
+    <SUITE FILE_PATH="coverage/Exercises$customer.coverage" NAME="customer Coverage Results" MODIFIED="1594478350358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/movie_world_2/project" />
+  </component>
+</project>
