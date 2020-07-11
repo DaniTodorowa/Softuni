@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5065db74-adb6-4563-b4e2-e9aec780fcda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.sh" beforeDir="false" afterPath="$PROJECT_DIR$/github.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
       <recent name="C:\Users\Dani Todorova\PycharmProjects\Exercises\ classes_and_instances_excs\07_library\project" />
     </key>
   </component>
-  <component name="RunManager" selected="Shell Script.github.sh">
+  <component name="RunManager" selected="Shell Script.github.sh (1)">
     <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,26 +127,12 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Exercises" />
+    <configuration name="github.sh (1)" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/github.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_PATH" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wild_cat_zoo/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wild_cat_zoo/project/zoo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="github.sh" type="ShConfigurationType" temporary="true">
@@ -157,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Shell Script.github.sh (1)" />
         <item itemvalue="Shell Script.github.sh" />
         <item itemvalue="Python.photoalbum_mine" />
         <item itemvalue="Python.123" />
         <item itemvalue="Python.customer" />
-        <item itemvalue="Python.zoo" />
       </list>
     </recent_temporary>
   </component>
@@ -203,22 +191,34 @@
       <workItem from="1594461499535" duration="1011000" />
       <workItem from="1594462528929" duration="4000" />
       <workItem from="1594469866290" duration="11822000" />
-      <workItem from="1594504597322" duration="2410000" />
+      <workItem from="1594504597322" duration="2658000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1594507615045</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594507615045</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="417" y="144" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594507559087">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="417" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1594507559087" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1594506542998">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1594507613865">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594506542998" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594507613865" />
     <state x="99" y="100" width="520" height="475" maximized="true" key="DiffContextDialog" timestamp="1593804289447">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -267,6 +267,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1594505926683" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1594507624598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594507624598" />
     <state x="673" y="156" key="com.intellij.ide.util.TipDialog" timestamp="1594504597521">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
