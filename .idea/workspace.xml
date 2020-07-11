@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5065db74-adb6-4563-b4e2-e9aec780fcda" name="Default Changelist" comment="" />
+    <list default="true" id="5065db74-adb6-4563-b4e2-e9aec780fcda" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.sh" beforeDir="false" afterPath="$PROJECT_DIR$/github.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,14 +50,14 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Dani Todorova\PycharmProjects\Exercises\ classes_and_instances_excs\07_library\project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.photoalbum_mine">
+  <component name="RunManager" selected="Shell Script.github.sh">
     <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,28 +124,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="storage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Exercises" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/document_management_3/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/document_management_3/project/storage.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,13 +146,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="github.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/github.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Shell Script.github.sh" />
         <item itemvalue="Python.photoalbum_mine" />
         <item itemvalue="Python.123" />
         <item itemvalue="Python.customer" />
         <item itemvalue="Python.zoo" />
-        <item itemvalue="Python.storage" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +201,8 @@
       <workItem from="1594461221641" duration="197000" />
       <workItem from="1594461499535" duration="1011000" />
       <workItem from="1594462528929" duration="4000" />
-      <workItem from="1594469866290" duration="10787000" />
+      <workItem from="1594469866290" duration="11822000" />
+      <workItem from="1594504597322" duration="1347000" />
     </task>
     <servers />
   </component>
@@ -220,30 +210,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1594506542998">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594506542998" />
     <state x="99" y="100" width="520" height="475" maximized="true" key="DiffContextDialog" timestamp="1593804289447">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="99" y="100" width="520" height="475" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1593804289447" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1594504275564">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1594504275564" />
     <state x="780" y="239" key="Github.CreateGistDialog" timestamp="1594497224384">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="780" y="239" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1594497224384" />
-    <state width="1237" height="227" key="GridCell.Tab.0.bottom" timestamp="1594500302525">
+    <state width="1237" height="227" key="GridCell.Tab.0.bottom" timestamp="1594504565896">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="227" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594500302525" />
-    <state width="1237" height="227" key="GridCell.Tab.0.center" timestamp="1594500302525">
+    <state width="1237" height="227" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594504565896" />
+    <state width="1237" height="227" key="GridCell.Tab.0.center" timestamp="1594504565896">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="227" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1594500302525" />
-    <state width="1237" height="227" key="GridCell.Tab.0.left" timestamp="1594500302525">
+    <state width="1237" height="227" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1594504565896" />
+    <state width="1237" height="227" key="GridCell.Tab.0.left" timestamp="1594504565896">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="227" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1594500302525" />
-    <state width="1237" height="227" key="GridCell.Tab.0.right" timestamp="1594500302525">
+    <state width="1237" height="227" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1594504565896" />
+    <state width="1237" height="227" key="GridCell.Tab.0.right" timestamp="1594504565896">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="227" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1594500302525" />
+    <state width="1237" height="227" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1594504565896" />
     <state width="572" height="179" key="GridCell.Tab.1.bottom" timestamp="1594417549250">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -260,14 +258,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="572" height="179" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1594417549250" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1594500262964">
+    <state x="142" y="0" key="SettingsEditor" timestamp="1594505926683">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1594500262964" />
-    <state x="673" y="156" key="com.intellij.ide.util.TipDialog" timestamp="1594469865976">
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1594505926683" />
+    <state x="673" y="156" key="com.intellij.ide.util.TipDialog" timestamp="1594504597521">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="673" y="156" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1594469865976" />
+    <state x="673" y="156" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1594504597521" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1594458353503">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
